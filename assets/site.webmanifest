@@ -1,0 +1,12 @@
+{
+  "name": "Project Eon",
+  "short_name": "Eon",
+  "description": "Relive classic Fortnite with Project Eon. Experience OG gameplay, nostalgic features, and the unforgettable feeling of old Fortnite.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "icons": [
+    { "src": "../favicon.ico", "type": "image/x-icon" }
+  ]
+}
