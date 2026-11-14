@@ -1,1 +1,0 @@
-import{ar as o}from"./index-Des5pSnt.js";const r=()=>o(),e=()=>typeof document<"u"&&document.documentElement.lang||void 0,u={format:t=>t.toLocaleString(e())},c=(t,n={dateStyle:"medium"})=>t?new Date(t.endsWith("Z")||t.includes("+")?t:`${t}Z`).toLocaleDateString(e(),n):"";export{c as f,u as n,r as u};
